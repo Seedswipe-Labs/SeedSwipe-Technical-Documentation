@@ -13,6 +13,7 @@ The web app is going to be developed using Next.js to expose the smart contract 
 
 #### Images
 The images below are mockups of the SeedSwipe mobile created in Swift.
+
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/d3727543-dc15-49c2-8aad-b97787d99a62 width=16% height=16% >
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/3d419bd8-ef55-41d7-8c55-5f4a6e3aab5e width=16% height=16% >
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/8030c686-e11f-4a60-b9f9-1797c1d59d62 width=16% height=16% >
