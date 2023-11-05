@@ -75,6 +75,21 @@ An example of a token holders agreement, the steps are:
 
 
 ### SeedClaim
+SeedClaim is the decentralized platform focused on credentialing, aiming to assist the SeedSwipe community in establishing and onboarding a list of reliable verifiers for credentialing services. It enables users to create digital identities though claims, which are digitally signed statements confirming specific attributes of an account. These identities play a crucial role in compliance procedures that depend on credentials. 
 
 
 ### SeedBase
+SeedBase is a secure and user-friendly smart contract account designed to be light and efficient. It simplifies the user experience by eliminating the need for private key management while keeping the system fully decentralized. High-risk actions are protected with easy-to-use multi-factor authentication, requiring either multiple devices or team members to give their approval.
+
+#### SeedBase.rs
+At the heart of SeedBase is a smart contract wallet, working as a proxy account contract that lets users carry out transactions. This account is linked to a key-value store, holding numerous keys any of which can initiate a transaction.
+
+#### Multisignature
+To go ahead with a transaction, the account needs approval from at least one additional key. This multisignature requirement lowers the risk of single-point failures and adds an extra layer of security for high-risk transactions. Users have the flexibility to set the number of required approvals depending on the type of transaction.
+
+#### Subdomain Identifiers
+Users expect accounts to have easy-to-remember identifiers like names, username or email addresses. Instead of a lengthy 42 character public key, SeedBase assigns accounts and objects unique subdomain identifiers, creating a user-friendly and clear way for interactions.
+
+#### Local Keys
+To balance ease of access and security while ensuring users maintain direct control of their assets, SeedSwipe employs numerous disposable, context-specific key pairs. These function as standard externally owned account (EOA) wallets but are used solely to sign transactions locally, meaning they never hold any funds. Funds are kept in the user's main identity account. WHen accessing their identity account from a new user, create a new key pair stored locally on that device. They then request permission to add this ew key to their account, which existing keys must approve. Once approved, the new key is added to the account. 
+
