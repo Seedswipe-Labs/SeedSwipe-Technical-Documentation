@@ -25,12 +25,12 @@ SeedCoreRegistry keeps an on-chain record of the Shareholders of its correspondi
 
 #### Advanced Issuer Controls
 SeedShare includes several advanced issuer controls designed to facilitate effective and secure equity tokenization, including:
-pause/unpause
-recover
-unfreezePartialShares/freezePartialShares
-batchFreezePartialShares/batchUnfreezePartialShares
-setAddressFrozen
-batchSetAddressFrozen
+- pause/unpause
+- recover
+- unfreezePartialShares/freezePartialShares
+- batchFreezePartialShares/batchUnfreezePartialShares
+- setAddressFrozen
+- batchSetAddressFrozen
 
 #### MetaData
 SeedSwipe introduces a metadata model designed to make the essential terms of an agreement easily accessible and interpretable by machines. This approach significantly improves the compatibility and functionality of third-party applications, as it extracts and organizes crucial information from the agreement. Consequently, external machine systems can index and use this information efficiently.
