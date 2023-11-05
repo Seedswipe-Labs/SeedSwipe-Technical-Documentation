@@ -62,16 +62,16 @@ In the creation and encoding of smart legal contracts, SeedSwipe establishes a s
 
 An example of a token holders agreement, the steps are:
 
-The user inputs data via the application.
-This data is then used to create a structured metadata model using JSON.
-A new token is created in the SeedShare token contract with a unique identifier. 
-The metadata model is updated with the terms of the agreement to be enforced on-chain from the structured data model, referencing the token identifier.
-The compliance contract is updated with the terms of the agreement to be enforced on-chain from the structured data model, referencing the token identifier.
-The metadata is used to render the legal agreement in Markdown.
-The legal Markdown file is uploaded to IPFS.
-The metadata is updated with the legal agreement IPFS URI.
-The metadata JSON file is uploaded to IPFS.
-The SeedShare token is updated with the structured metadata model IPFS URI.
+- The user inputs data via the application.
+- This data is then used to create a structured metadata model using JSON.
+- A new token is created in the SeedShare token contract with a unique identifier. 
+- The metadata model is updated with the terms of the agreement to be enforced on-chain from the structured data model, referencing the token identifier.
+- The compliance contract is updated with the terms of the agreement to be enforced on-chain from the structured data model, referencing the token identifier.
+- The metadata is used to render the legal agreement in Markdown.
+- The legal Markdown file is uploaded to IPFS.
+- The metadata is updated with the legal agreement IPFS URI.
+- The metadata JSON file is uploaded to IPFS.
+- The SeedShare token is updated with the structured metadata model IPFS URI.
 
 
 ### SeedClaim
