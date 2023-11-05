@@ -1,5 +1,5 @@
 # SeedSwipe-Technical-Documentation
-For a detailed explanation of the SeedSwipe ecosystem we encourage you read the whitepaper: [Whitepaper](https://drive.google.com/file/d/1-k_sakdcim4RfepOlIrGy83Ecxbldt8x/view?usp=sharing)
+For a detailed explanation of the SeedSwipe ecosystem we encourage you read the [whitepaper](https://drive.google.com/file/d/1-k_sakdcim4RfepOlIrGy83Ecxbldt8x/view?usp=sharing)
 
 SeedSwipe is a digital equity ecosystem designed for the internet age. Our protocol enables founders to fundraise seamlessly; from inviting investors, to negotiating term, to issuing equity all in a single flow. We lower the barrier to equity investment by leveraging our mobile and web platform to enable investors to realise unprecedented liquidity on their investments by making secure investments on chain, trading equity with global peers in a single click.
 
