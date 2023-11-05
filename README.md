@@ -22,7 +22,6 @@ The images below are mockups of the SeedSwipe mobile created in Swift.
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/7708b65b-90cf-4c36-b138-34db8fc8cbb0 width=16% height=16% >
 
 
-Here's a web mockups, depicting how the web app would look like.
 
 
 ### SeedShare
