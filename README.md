@@ -12,7 +12,7 @@ The iOS App is going to be built natively using Swift, using the UIKit and Swift
 The web app is going to be developed using Next.js to expose the smart contract functions also using a storage crate that allows more convenient API for the Soroban storage access. Hosted files will be securely stored using IPFS and the CryptoJS library to encrypt uploaded files. Typescript will be used  for the components and hooks of the UI.
 
 #### Images
-The images below are mockups of the SeedSwipe mobile created in Swift.
+The images below are mockups of the SeedSwipe. Keep in mind that the mobile mockup was created using Swift and SwiftUI/UIKit.
 
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/d3727543-dc15-49c2-8aad-b97787d99a62 width=16% height=16% >
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/3d419bd8-ef55-41d7-8c55-5f4a6e3aab5e width=16% height=16% >
@@ -21,6 +21,9 @@ The images below are mockups of the SeedSwipe mobile created in Swift.
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/8faedc92-3033-4892-b018-f43309069d0d width=16% height=16% >
 <img src=https://github.com/Seedswipe-Labs/SeedSwipe-iOS/assets/80065244/7708b65b-90cf-4c36-b138-34db8fc8cbb0 width=16% height=16% >
 
+See below for a web mockup that is supposed to work alongside the mobile frontend.
+
+<img src=https://github.com/Seedswipe-Labs/SeedSwipe-Technical-Documentation/assets/80065244/7c059f78-9fde-4444-b145-6a745badf917 width=70% height=70% >
 
 
 
