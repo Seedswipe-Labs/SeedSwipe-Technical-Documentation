@@ -7,6 +7,9 @@ We’ve developed the SeedSwipe protocol, a digital equity infrastructure for th
 
 
 ### SeedSwipe
+The iOS App is going to be built natively using Swift, using the UIKit and SwiftUI frameworks provided by Apple. Networking calls between the frontend and backend will be made using the Combine library provided by Apple. Wallet connections and user login will be hosted through SeedBase.
+
+The web app is going to be developed using Next.js to expose the smart contract functions also using a storage crate that allows more convenient API for the Soroban storage access. Hosted files will be securely stored using IPFS and the CryptoJS library to encrypt uploaded files. Typescript will be used  for the components and hooks of the UI.
 
 
 ### SeedShare
